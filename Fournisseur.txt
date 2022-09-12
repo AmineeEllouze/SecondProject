@@ -3,4 +3,5 @@ String name;
 Date birthDate;
 String identifier;
 String address;
+Date insDate;
 }
