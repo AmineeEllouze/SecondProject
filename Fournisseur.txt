@@ -4,4 +4,5 @@ Date birthDate;
 String identifier;
 String address;
 Date insDate;
+String telephoneNumber;
 }
