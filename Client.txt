@@ -1,0 +1,4 @@
+Class Client 
+{
+String name;
+}
