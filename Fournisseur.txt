@@ -2,4 +2,5 @@ Class Fournisseur {
 String name;
 Date birthDate;
 String identifier;
+String adr;
 }
