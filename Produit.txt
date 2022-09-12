@@ -2,4 +2,5 @@ Class Produit
 {
 String name;
 int prix;
+int level;
 }
