@@ -1,4 +1,5 @@
 Class Client 
 {
 String name;
+String adress;
 }
