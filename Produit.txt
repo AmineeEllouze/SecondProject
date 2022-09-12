@@ -4,4 +4,5 @@ String name;
 int prix;
 int level;
 String reference;
+int num;
 }
