@@ -6,4 +6,5 @@ String address;
 Date insDate;
 String telephoneNumber;
 String complementAdress;
+String mail;
 }
