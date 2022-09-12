@@ -1,0 +1,5 @@
+Class Produit
+{
+String name;
+int prix;
+}
